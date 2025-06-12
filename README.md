@@ -13,5 +13,5 @@
 
 1. Склонуй репозиторій:
    ```bash
-   git clone https://github.com/твій-нік/.git
-   cd 
+   git clone https://github.com/AlexCh19/my-first-repo.git
+   cd my-first-repo
